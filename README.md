@@ -146,7 +146,7 @@ Superman Problem, it was not as hard as it seems as long as you keep attention t
 
 #WEEK 10
 * Growth of Functions
-    - ** Often described as The Big-O Notation - **
+    - **Often described as The Big-O Notation**
         - **Big-O (upperbound of a function)**
         - **Big-Omega (lower bound of a function)**
         - **Big-Theta (upper and lower bound of a function)**
