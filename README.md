@@ -204,12 +204,12 @@ Superman Problem, it was not as hard as it seems as long as you keep attention t
 #WEEK 13
 * These remaining topics are also part of the finals which was lectured to us during the last two meetings
 * **Graph Coloring**
-    - Chromatic Number
-    - Four Color Theorem
+    - Chromatic Number - least number of colors needed in coloring a graph
+    - Four Color Theorem - states that the number of a planar graph should not be greater than four
 * **Trees**
-    - Rooted Tree
-    - M-ary Tree
-    - Ordered Tree
+    - Rooted Tree - a special node is singled out
+    - M-ary Tree - if every internal vertex has has no more than m children
+    - Ordered Tree - a node connected to a sequence of disjoint trees
 * **Language and Grammar**
     - Proper Language and Grammar must be used for some words have double meaning
 * **Syntax**
